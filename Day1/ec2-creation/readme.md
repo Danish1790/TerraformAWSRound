@@ -1,0 +1,1 @@
+##  Learn how to create an Ec2 instance in terraform.
